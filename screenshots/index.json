@@ -1,0 +1,11 @@
+[
+  {
+    "repo": "rustybeer",
+    "captured_at": "2026-10-11T192514",
+    "source_url": "https://rustybeer.herokuapp.com/",
+    "source_type": "Website",
+    "file": "rustybeer-2026-10-11T192514.png",
+    "bytes": 195244,
+    "capture": "playwright-local"
+  }
+]
